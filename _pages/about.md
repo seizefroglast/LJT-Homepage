@@ -28,7 +28,7 @@ My research interests include LLM reasoning and reinforcement learning, hallucin
 
 ## Publications
 
-Publications are also listed on the [Publications](/publications/) page.
+Publications are also listed on the [Publications]({{ site.baseurl }}/publications/) page.
 
 1. Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. **"SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond."** arXiv, 2025. *(First author)*
 2. Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. **"On the Perception Bottleneck of VLMs for Chart Understanding."** arXiv, 2025. *(First author)*
